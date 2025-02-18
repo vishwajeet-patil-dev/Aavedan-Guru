@@ -1,0 +1,24 @@
+{
+  "name": "aavedan-guru",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwajeet-patil-dev/Aavedan-Guru.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vishwajeet-patil-dev/Aavedan-Guru/issues"
+  },
+  "homepage": "https://github.com/vishwajeet-patil-dev/Aavedan-Guru#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
